@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### idea
+.idea/
+.gradle/
+.build/reports/
+.build/tmp
